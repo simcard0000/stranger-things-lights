@@ -1,0 +1,3 @@
+# stranger-things-lights
+A small ongoing project where I recreated the lights from "Stranger Things" with programmable LEDs. Adding voice control next...
+
