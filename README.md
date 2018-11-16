@@ -2,9 +2,17 @@
 ✨ A small ongoing project where I recreated the lights from "Stranger Things" with programmable LEDs.
 
 From this:
-<img align="middle" src="https://raw.githubusercontent.com/simcard0000/stranger-things-lights/master/imagesforREADME/strangerthingslightsfromshow.jpg" width="256" height="256" title="The show!"> 
+
+<img src="https://raw.githubusercontent.com/simcard0000/stranger-things-lights/master/imagesforREADME/strangerthingslightsfromshow.jpg" width="256" height="256" title="The show!"> 
 
 To this:
+
 <img src="https://raw.githubusercontent.com/simcard0000/stranger-things-lights/master/imagesforREADME/myversionofthelights.png" width="256" height="256" title="The show!">
 
-# Making the Project
+## How it Works
+
+## Making the Project
+
+## Next Steps
+- [ ] Finishing the "Making the Project" and "How it Works" sections of this README.md 😅
+- [ ] Adding a way for people to interact with the installation by speaking their message to a microphone instead of typing their message on a connected computer to be outputted by the lights...
