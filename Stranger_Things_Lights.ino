@@ -31,16 +31,17 @@ void setup() {
 void loop() {
 
   static uint8_t startIndex = 0;
-    startIndex = startIndex + 1; /* motion speed */
+    startIndex = startIndex + 1;
+    //motion speed
     
     FillLEDsFromPaletteColors( startIndex);
     
     FastLED.show();
     FastLED.delay(3000 / UPDATES_PER_SECOND);
-    //The rate of change in terms of colour.
+    //The rate of change in terms of colour
 
     if (Serial.available()){
-    char ch = Serial.read();
+        char ch = Serial.read();
     
     if (ch == 'a'){
         delay (10);
